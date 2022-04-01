@@ -16,6 +16,3 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleisson-santos-dev&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleisson-santos-dev&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
