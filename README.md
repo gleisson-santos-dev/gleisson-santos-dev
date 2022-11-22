@@ -1,5 +1,5 @@
 ## GLEISSON SANTOS VIEIRA
-### engenharia de software UTFPR | Desenvolvedor Font-end 
+### engenharia de software UTFPR | Desenvolvedor Front-end 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleisson-santos-vieira/) 
