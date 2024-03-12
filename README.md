@@ -1,5 +1,5 @@
 # GLEISSON SANTOS VIEIRA
-## rezumo
+## resumo
 Ola me chamo Gleisson 👋
 Sou formado no curso de **tecnológo em gestão de tecnologia da informação** desde então apaixonado por Tecnologia, atulmente curso **engenharia de softare (UTFPR)**, gosto muito de testar novas linguagems e tecnologias.
 ## Hard Skills
